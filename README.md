@@ -1,1 +1,1 @@
-# My First prject on gihub ^o^
+# My First repository on gihub ^o^
