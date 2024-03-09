@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(40, 4, 4);
+}
+h1{
+    font-size: 75px;
+    font-weight: bold;
+    color: rgb(225, 225, 199);
+    margin: 0;
+}
+.name{
+    background: repeating-linear-gradient(
+    35deg,
+    hsl(343 100% 50%) 0px 2px,
+    hsl(23 100% 50%) 0px 4px
+    );
+  mix-blend-mode: normal;
+}
+p{
+    color: rgb(225, 225, 199);
+    font-size: 40px;
+    text-indent: 30px;
+    opacity: 60%;
+}
+div{
+    margin: 1%;
+    margin-top: 25%;
+}
